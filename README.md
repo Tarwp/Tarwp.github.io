@@ -23,5 +23,5 @@ follow up customer behavior and understand your business perfomance.
 * [RFM analysis](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/E_commerce_RFM.ipynb) RFM analysis could help you to identify customers segment by three factors recency, frequency and monetary
 * [Market basket analysis using association rule](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/Association_rules.ipynb)
 Market basket analysis make you more understand about behavior of buyer. And will know which items users frequently purchased together.
-    
+#### E-commerce monthly report created by tableau
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/MonthlyReport_16006154043090/Dashboard1?:language=en&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
