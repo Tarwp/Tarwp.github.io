@@ -13,7 +13,7 @@ For this project, I am trying to use pytrend to measure which
 e-commerce has more users searching. And also used pytrend to 
 see what users searching about the iphone 12 which trending now.
 
-![alt text](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrenim.jpg)
+![image](/assets/images/Pytrenim.jpg.jpg)
 
 ### E-commerce analysis
 This project covers about
