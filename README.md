@@ -24,5 +24,5 @@ follow up customer behavior and understand your business perfomance.
 * [Market basket analysis using association rule](https://github.com/Tarwp/Own_Project/blob/main/E-commerce%20Analysis/Association_rules.ipynb)
 Market basket analysis make you more understand about behavior of buyer. And will know which items users frequently purchased together.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/MonthlyReport_16006154043090/Dashboard1" width = '650' height = '450' scrolling='yes' ></iframe>    
+<iframe src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/MonthlyReport_16006154043090/Dashboard1" width = '650' height = '450'></iframe>    
 
