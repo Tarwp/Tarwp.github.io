@@ -7,7 +7,17 @@ by me. The purpose that i am created these projects to
 develop my data analysis skills. Please feel free to 
 explore my project.
 
-### Using pytrend to analyze the google trend [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
+### Telco customers churn prediction using classification machine learning model.
+### [Telco customers churn prediction](https://github.com/Tarwp/Own_Project/blob/main/Telco%20churn%20prediction/Telco_Churn_Prediction.ipynb)
+Churn prediction is the solutions to forecast the possibility of trending customers who will quit using the product and services by using the historical data.
+Most organizations take the results of churn prediction to identify behavior patterns of customers who are likely to churn. The prediction results will enable organizations 
+to segment those customers and able to arrange develop products, services and proper sales strategy for convince customers continue using products and services.
+This note book will using the classification machine learning model to predict whether which customers will churn. And we will measure whether the model Which is 
+the best used to predict this dataset?
+<img src="Telco churn prediction/ROC.png">
+
+### Using pytrend to analyze the google trend 
+### [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
 
 For this project, I am trying to use pytrend to measure which 
 e-commerce has more users searching. And also used pytrend to 
