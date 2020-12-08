@@ -12,7 +12,7 @@ explore my project.
 Churn prediction is the solutions to forecast the possibility of trending customers who will quit using the product and services by using the historical data.
 Most organizations take the results of churn prediction to identify behavior patterns of customers who are likely to churn. The prediction results will enable organizations 
 to segment those customers and able to arrange develop products, services and proper sales strategy for convince customers continue using products and services.
-This note book will using the classification machine learning model to predict whether which customers will churn. And we will measure whether the model Which is 
+This note book will using the classification machine learning model to predict whether which customers will churn. And we will measure whether the model which is 
 the best used to predict this dataset?
 <img src="Telco churn prediction/ROC.png">
 
