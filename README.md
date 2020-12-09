@@ -14,7 +14,7 @@ Most organizations take the results of churn prediction to identify behavior pat
 to segment those customers and able to arrange develop products, services and proper sales strategy for convince customers continue using products and services.
 This note book will using the classification machine learning model to predict whether which customers will churn. And we will measure whether the model which is 
 the best used to predict this dataset?
-<img src="Telco churn prediction/ROC.png">
+
 
 ### Using pytrend to analyze the google trend 
 ### [Google trend analysis](https://github.com/Tarwp/Own_Project/blob/main/Pytrend/Pytrend.ipynb)
