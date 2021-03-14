@@ -7,7 +7,7 @@ by me. The purpose that i am created these projects to
 develop my data analysis skills. Please feel free to 
 explore my project.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/OlderTrend/Dashboard2?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/OlderTrend/Dashboard2:language=en&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
 
 ### Telco customers churn prediction using classification machine learning model.
