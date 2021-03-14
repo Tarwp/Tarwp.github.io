@@ -44,5 +44,5 @@ This note book will using the classification machine learning model to predict w
 the best used to predict this dataset?
 
 ### More Viualization : [Tableau Plublic Profile](https://public.tableau.com/profile/watcharapol7149#!)
-### Exceptable every feedback at watcharapol.pati@gmail.com
+### Acceptable every feedback at watcharapol.pati@gmail.com
 ### And more to come!!
