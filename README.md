@@ -9,6 +9,8 @@ explore my project.
 
 ### Thailand Population Ratio Data Visualization (Segment by age)
 This data visualization created for prove whether Has Thailand entered an aging society or not?. 
+If you selected the filter to "ผู้สูงอายุ" you will see on the line graph that the number of elderly population constantly increasing from year 2553(2010).
+On the other hand the number of children continued to decrease since 2010 and teenage gradually decrease since 2012.
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/OlderTrend/Dashboard2?:language=en&:retry=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '800' scrolling='yes' ></iframe>
 #### Data Source : [http://statbbi.nso.go.th/staticreport/page/sector/th/01.aspx](http://statbbi.nso.go.th/staticreport/page/sector/th/01.aspx)
 
@@ -41,5 +43,6 @@ to segment those customers and able to arrange develop products, services and pr
 This note book will using the classification machine learning model to predict whether which customers will churn. And we will measure whether the model which is 
 the best used to predict this dataset?
 
-
+### More Viualization : [Tableau Plublic Profile](https://public.tableau.com/profile/watcharapol7149#!)
+### Exceptable every feedback at watcharapol.pati@gmail.com
 ### And more to come!!
