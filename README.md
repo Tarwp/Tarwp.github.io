@@ -7,6 +7,9 @@ by me. The purpose that i am created these projects to
 develop my data analysis skills. Please feel free to 
 explore my project.
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/profile/watcharapol7149#!/vizhome/OlderTrend/Dashboard2?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>
+
+
 ### Telco customers churn prediction using classification machine learning model.
 ### [Telco customers churn prediction](https://github.com/Tarwp/Own_Project/blob/main/Telco%20churn%20prediction/Telco_Churn_Prediction.ipynb)
 Churn prediction is the solutions to forecast the possibility of trending customers who will quit using the product and services by using the historical data.
